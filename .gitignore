@@ -28,6 +28,7 @@ replay_pid*
 /.settings/
 .classpath
 .factorypath
+/data
 
 .idea
 /dependency-reduced-pom.xml
